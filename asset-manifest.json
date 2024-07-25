@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/favorite-books-list/static/css/main.31d6cfe0.css",
+    "main.js": "/favorite-books-list/static/js/main.9a3671e4.js",
+    "index.html": "/favorite-books-list/index.html",
+    "main.9a3671e4.js.map": "/favorite-books-list/static/js/main.9a3671e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9a3671e4.js"
+  ]
+}
